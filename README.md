@@ -5,6 +5,9 @@ A research assistant application that enables users to upload research papers an
 The system processes uploaded PDF documents, retrieves relevant contextual information, and generates accurate responses based on the uploaded content.
 
 ---
+## Live Demo
+
+[Open Application](https://rag-research-assistant-2igzawnqwmm22d83udctud.streamlit.app/)
 
 # Overview
 
