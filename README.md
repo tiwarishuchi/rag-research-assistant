@@ -219,7 +219,18 @@ Creates multiple-choice questions directly from uploaded research papers.
 
 # Screenshots
 
-<img width="958" height="450" alt="Screenshot 2026-05-16 222241" src="https://github.com/user-attachments/assets/d9253353-0e6e-4c0c-a68e-d56ace812e49" />
+## Home Interface
+![Home](assets/home)
+
+## Question Answering
+![Answer](assets/Q&A)
+
+## Research Summary
+![Summary](assets/summary)
+
+## Quiz Generation
+![Quiz](assets/Quiz1)
+![Quiz](assets/Quiz2)
 
 ---
 
