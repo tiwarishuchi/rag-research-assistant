@@ -219,14 +219,7 @@ Creates multiple-choice questions directly from uploaded research papers.
 
 # Screenshots
 
-(Add application screenshots here)
-
-Examples:
-- Home interface
-- PDF upload
-- Question answering
-- Research summary
-- Quiz generation
+<img width="958" height="450" alt="Screenshot 2026-05-16 222241" src="https://github.com/user-attachments/assets/d9253353-0e6e-4c0c-a68e-d56ace812e49" />
 
 ---
 
