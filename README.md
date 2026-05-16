@@ -220,17 +220,17 @@ Creates multiple-choice questions directly from uploaded research papers.
 # Screenshots
 
 ## Home Interface
-![Home](assets/home)
+![Home](assets/home.png)
 
 ## Question Answering
-![Answer](assets/Q&A)
+![Answer](assets/Q&A.png)
 
 ## Research Summary
-![Summary](assets/summary)
+![Summary](assets/summary.png)
 
 ## Quiz Generation
-![Quiz](assets/Quiz1)
-![Quiz](assets/Quiz2)
+![Quiz](assets/Quiz1.png)
+![Quiz](assets/Quiz2.png)
 
 ---
 
